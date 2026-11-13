@@ -14,6 +14,6 @@ if ($username === $EXPECTED_USER && $password === $EXPECTED_PASS) {
     exit;
 } else {
 
-echo "Invalid login. <a href='login.html'>Try again</a>";
+echo "Invalid login. <a href='login.php'>Try again</a>";
 exit;
 }

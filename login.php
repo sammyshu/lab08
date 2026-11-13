@@ -8,6 +8,8 @@
     <title>Lab 08 Login</title>
 </head>
 <body>
+<?php include 'header.inc'; ?>
+
     <h1>Login</h1>
     <form action="process.php" method="post">
         <p>
@@ -23,5 +25,7 @@
             <button type="submit">Log in</button>
         </p>
     </form>
+
+<?php include 'footer.inc'; ?>
 </body>
 </html>
