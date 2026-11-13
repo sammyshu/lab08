@@ -2,7 +2,7 @@
 session_start();
 
 $EXPECTED_USER = 'Sammy';
-$EXPECTED_PASS = '1066876232';
+$EXPECTED_PASS = '106687632';
 
 $username = $_POST['username'] ?? '';
 $password = $_POST['password'] ?? '';
