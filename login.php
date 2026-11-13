@@ -26,6 +26,7 @@
         </p>
     </form>
 
+    
 <?php include 'footer.inc'; ?>
 </body>
 </html>
